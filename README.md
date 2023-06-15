@@ -1,1 +1,1 @@
-# Iris_Classification_Server
+# iris-classification
